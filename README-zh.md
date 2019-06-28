@@ -1,4 +1,4 @@
-# vue-admin-template
+﻿# vue-admin-template
 
 > 这是一个 极简的 vue admin 管理后台 它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
@@ -94,3 +94,6 @@ Modern browsers and Internet Explorer 10+.
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+
+
+git网址：http://192.168.70.208:8080/r/NewClassesAdminWeb.git
