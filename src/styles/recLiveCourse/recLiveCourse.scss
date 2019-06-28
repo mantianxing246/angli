@@ -1,0 +1,103 @@
+.rec-live-course{
+  .el-row{
+   margin-bottom:0;
+  }
+  .label-width-50{
+    .el-form-item__label{
+      width:50px !important;
+    }
+    .el-form-item__content{
+      margin-left:50px !important;
+    }
+  }
+  .label-width-70{
+    .el-form-item__label{
+      width:70px !important;
+    }
+    .el-form-item__content{
+      margin-left:70px !important;
+    }
+  }
+  .label-width-80{
+    .el-form-item__label{
+      width:80px !important;
+    }
+    .el-form-item__content{
+      margin-left:80px !important;
+    }
+  }
+  .label-width-100{
+    .el-form-item__label{
+      width:100px !important;
+    }
+    .el-form-item__content{
+      margin-left:100px !important;
+    }
+  }
+  .label-width-110{
+    .el-form-item__label{
+      width:110px !important;
+    }
+    .el-form-item__content{
+      margin-left:110px !important;
+    }
+  }
+  .cl{
+    clear:both;
+  }
+  .quill-editor {
+    height: 320px;
+    .ql-container {
+      height: 222px;
+    }
+    .ql-toolbar.ql-snow,
+    .ql-container.ql-snow{
+      border: 1px solid #dcdfe6;
+    }
+    .ql-container.ql-snow{
+      border-top:0;
+    }
+  }
+  .limit {
+    height: 30px;
+    border: 1px solid #c0c4cc;
+    line-height: 30px;
+    text-align: right;
+    span {
+      color: #ee2a7b;
+    }
+  }
+  .ql-snow .ql-editor img {
+    max-width: 480px;
+  }
+  .ql-editor .ql-video {
+    max-width: 480px;
+  }
+  .avatar-uploader .el-upload {
+    border: 1px dashed #e4e7ed;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    background: #f5f7fa;
+  }
+  .avatar-uploader .el-upload:hover {
+    border-color: #409EFF;
+  }
+  .avatar-uploader-icon {
+    font-size: 28px;
+    color: #8c939d;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+  }
+  .avatar {
+    width: 80px;
+    height: 80px;
+    display: block;
+  }
+  .tips{
+    line-height:0;
+  }
+}
