@@ -171,7 +171,7 @@ export default {
   },
   mounted() { 
     this.orderId = this.$route.query.orderId;
-    // this.findProductByOrder(this.oldOrderId);
+    this.findProductByOrder(this.oldOrderId);
     this.tableList();
   },
   methods: {
